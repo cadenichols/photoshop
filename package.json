@@ -1,17 +1,17 @@
 {
   "name": "prototype",
   "description": "Prototype Application",
-  "homepage": "https://github.com/coding-house-jan2015/prototype",
+  "homepage": "https://github.com/cadenichols/photoshop.git",
   "keywords": [
     "gulp",
     "jshint",
     "jscs",
     "server"
   ],
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Cade Nichols <cade@cadenichols.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coding-house-jan2015/prototype.git"
+    "url": "git@github.com:cadenichols/photoshop.git"
   },
   "version": "1.0.0",
   "scripts": {
