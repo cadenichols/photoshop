@@ -2,15 +2,22 @@ doctype html
 html(lang='en')
   head
     meta(charset='utf-8')
-    title Prototype
+    title Paintjob
     link(rel='stylesheet', href='/style.css')
   body
-    h1 Photoshop
+    h1 Paintjob
     input#color(type='color', value='#ff0000')
     button#add-color Add Color
     input#quantity(type='number', autofocus=true)
     button#add-random-colors Add Random
+    button#start Start
+    button#stop Stop
+    input#canvas-size(type='number')
+    button#add-canvas Add Canvas
+    div
+      div#selected
     #colors
+    #canvas
     script(src='/vendor/jquery/dist/jquery.js')
     script(src='/main.js')
 

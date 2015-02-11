@@ -1,9 +1,9 @@
 {
   "name": "prototype",
   "version": "1.0.0",
-  "homepage": "https://github.com/coding-house-jan2015/prototype",
+  "homepage": "https://github.com/cadenichols/photoshop",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Cade Nichols<cade@cadenichols.com>"
   ],
   "license": "MIT",
   "dependencies": {
